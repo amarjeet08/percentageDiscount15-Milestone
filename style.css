@@ -1,0 +1,15 @@
+p {
+    font-size: 18px;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
+  #original-price {
+    color: #888;
+  }
+  
+  #discounted-price {
+    color: green;
+  }
